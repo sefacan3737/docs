@@ -22,3 +22,4 @@ You can manually select the region that your codespaces will be created in, allo
 1. Under "Region", select the setting you want.
 2. If you chose "Set manually", select your region in the drop-down list.
    ![Selecting your region](/assets/images/help/codespaces/select-default-region.png)
+g-1724 
